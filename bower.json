@@ -1,0 +1,22 @@
+{
+  "name": "typecriptwithangular",
+  "description": "A app by bhanu",
+  "main": "index.js",
+  "authors": [
+    "bhanunegi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
